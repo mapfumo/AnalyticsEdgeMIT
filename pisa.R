@@ -1,6 +1,4 @@
 ##
-## Author: Antony Mapfumo
-## Date: 22 March 2015
 
 ## Week 2 - READING TEST SCORES
 

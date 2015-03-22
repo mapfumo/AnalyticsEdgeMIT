@@ -1,6 +1,4 @@
 ##
-## Author: Antony Mapfumo
-## Date: 22 March 2015
 
 ## Week 2 - Climate change - Linear Regression
 ## In this problem, we will attempt to study the relationship 
